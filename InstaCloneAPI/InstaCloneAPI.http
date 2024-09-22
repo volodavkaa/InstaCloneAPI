@@ -1,0 +1,6 @@
+@InstaCloneAPI_HostAddress = http://localhost:5053
+
+GET {{InstaCloneAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
